@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.aspire.com",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "microservice",
+    "baseName": "MicroDemo",
+    "packageName": "org.aspire.com",
+    "packageFolder": "org/aspire/com",
+    "serverPort": "9001",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzgwNTk5NDVmMmM3NTMxNTQ1Mjk1Mjc0YjBjNjFmZjczNzAwNTI4MjdlYWMzODM0NjY1MWNlYzI5NTZhZDUzYWRmNmU4MWUzNjVkNTM3MmJlZDU1MGNhMjBlOThhOTA5ZmI4ZjA3OGI3MjlmMzlmNmU2YTI3NGQwOGNiYTQxMTU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
